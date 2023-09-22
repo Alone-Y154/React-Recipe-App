@@ -11,7 +11,7 @@
 <br>
 
 <img src="public/home-page.png" width="100%x"  />
-<p>Responsive Recipe Website Intergrated with Login and LogOut functionality with <a href="https://auth0.com/">Auth0</a> & Made using React, Reacts Hooks & Axios</p>
+<p>Responsive Recipe Website Intergrated with Login and LogOut functionality with <a href="https://auth0.com/">Auth0</a> & Made using React, React Hooks, Material UI & Axios</p>
 
 <br>
 <br>
